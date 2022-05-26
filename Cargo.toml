@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+   "nats-eater",
+   "nats-sender"
+]
